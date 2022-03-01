@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preparations for each knight of the Bath</title>
+            <author>Order of the Bath.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09766</idno>
+            <idno type="OCLC"> 80923398</idno>
+            <idno type="STC">Wing P3218</idno>
+            <idno type="STC">ESTC S121385</idno>
+            <idno type="EEBO-CITATION">80923398</idno>
+            <idno type="OCLC">ocm 80923398</idno>
+            <idno type="VID">191961</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191961)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Preparations for each knight of the Bath</title>
+                  <author>Order of the Bath.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Order of the Bath --  Early works to 1800.</term>
+               <term>Orders of knighthood and chivalry --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="lists_of_accoutrements_for_Knights_of_the_Bath">
+            <pb facs="tcp:191961:1" rendition="simple:additions"/>
+            <head>Preparations for each Knight of the Bath.</head>
+            <list>
+               <item>
+                  <hi>
+                     <seg rend="decorInit">I</seg>Nprimis,</hi> A <seg rend="deleted">Bedſted</seg> 
+                  <add>Pallett</add> with a Mattreſs or Feather-bed, as alſo Bolſter, Pillow, Blankets, Sheets, Coverlets, and Covering of Red Rug or Say, with a Demi-Teſter to the ſame of Red Say, without Curtains.</item>
+               <item>
+                  <hi>Item,</hi> His Bath to be prepared with a Croſs Hoop over it, and a Three-leg'd Stool in the one end thereof, and covered with 14. yards of Red Say, and a Carpet, with 18. or 20. Ells of Linnen Cloth to line the ſame both without and within. <add>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ing Tubb Bath and Stoole wth 3 Leggs are to <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>vided at the charge of the Kings Barbour</add>
+               </item>
+            </list>
+            <list>
+               <head>For his firſt Habit.</head>
+               <item>
+                  <hi>Item,</hi> Cloth of Friers Ruſſet to make a long Gowne, with wide Sleeves and Hood thereto, in form of an Hermites weed, tyed cloſe about the Middle with a Cordon of Aſh-coloured and Ruſſet Silk, (made round of Finger-work, and knit full of knots before, reaching down almoſt to the knees) and a white Napkin or Handkercheif hanging thereat.</item>
+               <item>
+                  <hi>Item,</hi> A pair of Stockings of black Kerſey called <hi>Chauſe Semellé,</hi> ſoaled with black Leather ſowed to them; they uſing with them no other Shoos, but ſometimes wearing a pair of black Slippers to keep them from taking cold.</item>
+            </list>
+            <list>
+               <head>For his ſecond Habit.</head>
+               <item>
+                  <hi>Item,</hi> A Mantle and Surcoat of Red Taffata, <add>lined &amp;</add> edged with white Taffata or Sarcenet, and thereto faſtened two long ſtrings of white Silk, with Buttons and Taſſels of red Silk and Gold, and a pair of white Gloves tyed to them: Alſo a Coyfe of white Lawne for his head, with a white Hat and a white Feather.</item>
+               <item>
+                  <hi>Item,</hi> A Sword, the Pomel whereof and the Croſs-hilt to be gilt, the Scabbard of white Leather, Girdle and Belt of the ſame, with Buckles of Iron or <add>other</add> Mettal.</item>
+               <item>
+                  <hi>Item,</hi> White Boots, and a pair of gilt Spurs, with white Leathers.</item>
+               <item>
+                  <hi>Item,</hi> Four Horſes Sadled, <hi>(viz.</hi> for Himſelf, his two Eſquires, and one Page:) That for himſelf having a black Leather Saddle, bordered with white Leather, the Arſon white; no Croper, but a Pectoral having a Croſs Patee gilt thereon; and on the Forehead another: Alſo black Stirrup-Leathers with gilt Stirrups.</item>
+               <item>
+                  <hi>Item,</hi> A black Bridle of Leather, having a broad Reyne and a ſmall long Reyne.</item>
+            </list>
+            <p>Note that the Horſe for the Page, and Horſe for the two Eſquires, are to be furniſhed as the Knight himſelf pleaſeth.</p>
+            <list>
+               <head>For his third Habit.</head>
+               <item>
+                  <hi>Item,</hi> To have a long Gowne of Purple Satten, the Sleeves turned up at the hands half a yard deep, with white Taffata (after the manner of a Doctor or Batchellor of Law's Gowne) edged with white Taffata, and ſometimes lined throughout, with a Hood to the ſame, purſled with like Taffata about half an Inch deep. On his left Shoulder a ſmall Lace of white Silk.</item>
+               <item>
+                  <hi>Item,</hi> 
+                  <seg rend="deleted">Two</seg> 
+                  <add>Three</add> Eſchocheons of his Arms, with Creſt: And if he be a Nobleman, to be with Supporters. <add>These are to bee cared for by the offic<expan>
+                        <am>
+                           <g ref="char:aber"/>
+                        </am>
+                        <ex>er</ex>
+                     </expan>s of <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </add>
+               </item>
+               <item>
+                  <hi>Item,</hi> A Table and his Meſs of Meat.</item>
+            </list>
+            <p>Alſo every Knight is to provide an Angel in Gold for his Offering in the Chappel. </p>
+            <list>
+               <head>
+                  <add>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>These are to bee Provided at the Charge of y<hi rend="sup">e</hi> Sargeant of the Chaundry</add> The Proportions of Cloth and Silk for the Robes before ſpecified.</head>
+               <item>
+                  <hi>Inprimis,</hi> Three Yards and a half of Gray Cloth for his Gowne and Cap.</item>
+               <item>
+                  <hi>Item,</hi> Thirteen Ells of Crimſon Taffata for the Robe and Surcoat.</item>
+               <item>
+                  <hi>Item,</hi> Sixteen Yards of Purple Satten for the Robe and Hood.</item>
+               <item>
+                  <hi>Item,</hi> Three Ells of white Taffata to edge and face the Silk Rober.</item>
+               <item>
+                  <hi>Item,</hi> Cordels or ſtrings, with great Taſſels of Crimſon ſilk and Gold for the Crimſon Robe; and a ſmall one of Purple and Gold for the Purple Robe.</item>
+            </list>
+            <p>Note that the Eſquires and Page are to be richly habited, and that every Knight to have two Footmen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
